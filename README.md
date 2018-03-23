@@ -12,3 +12,6 @@ The code from session BRK3140 will be available soon.
 For questions please contact us by using the following e-mail addresses:
 Pedro Sacramento pesacr@Microsoft.com
 Gonçalo Antunes goantu@Microsoft.com
+
+# Disclaimer
+All the code is provided for the purpose of illustration only and is not intended to be used in a production environment.  THIS SAMPLE CODE AND ANY RELATED INFORMATION ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS FOR A PARTICULAR PURPOSE. 
